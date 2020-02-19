@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Rocketshoes" src="https://github.com/IgorThierry/Rocketshoes/blob/master/src/assets/images/logo.png?raw=true" width="300px"/>
+    <img alt="GoBarber" src="https://github.com/IgorThierry/gobarber-api/blob/master/src/assets/images/gobarber-header.svg" width="300px"/>
 </p>
 
 <h1 align="center">
